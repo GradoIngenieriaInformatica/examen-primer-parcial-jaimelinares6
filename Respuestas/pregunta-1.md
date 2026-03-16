@@ -1,1 +1,1 @@
-Base de datos a grafos
+BD a grafos
